@@ -1,0 +1,11 @@
+---
+:settings:
+  :user: satelliteadminuser
+  :pass: satelliteadminpassword
+  :uri: https://localhost
+  :org: org_id_number
+  :licensecsv: "rhlicenses.csv"
+  :vmwareyaml: "vmwareclusters.yaml"
+  :fixvmware:   true
+  :fixphysical: true
+  :fixguests: true

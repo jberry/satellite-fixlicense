@@ -1,0 +1,3 @@
+ClusterName or PhysicalHost name,vCenterName,LicenseName
+Linux_Cluster,myvcenter,Red Hat Enterprise Linux Developer Suite
+physicalhostname,N/A,Red Hat Enterprise Linux Developer Suite
